@@ -1,0 +1,6 @@
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\bin\Debug\2-1-4-HC.exe.config
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\bin\Debug\2-1-4-HC.exe
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\bin\Debug\2-1-4-HC.pdb
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\obj\Debug\2-1-4-HC.csproj.CoreCompileInputs.cache
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\obj\Debug\2-1-4-HC.exe
+C:\Users\Shanlin\source\repos\Test\2-1-4-HC\obj\Debug\2-1-4-HC.pdb

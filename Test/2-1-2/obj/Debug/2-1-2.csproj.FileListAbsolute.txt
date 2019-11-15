@@ -1,0 +1,7 @@
+C:\Users\Shanlin\source\repos\Test\2-1-2\bin\Debug\2-1-2.exe.config
+C:\Users\Shanlin\source\repos\Test\2-1-2\bin\Debug\2-1-2.exe
+C:\Users\Shanlin\source\repos\Test\2-1-2\bin\Debug\2-1-2.pdb
+C:\Users\Shanlin\source\repos\Test\2-1-2\obj\Debug\2-1-2.csproj.CoreCompileInputs.cache
+C:\Users\Shanlin\source\repos\Test\2-1-2\obj\Debug\2-1-2.exe
+C:\Users\Shanlin\source\repos\Test\2-1-2\obj\Debug\2-1-2.pdb
+C:\Users\Shanlin\source\repos\Test\2-1-2\obj\Debug\2-1-2.csprojAssemblyReference.cache

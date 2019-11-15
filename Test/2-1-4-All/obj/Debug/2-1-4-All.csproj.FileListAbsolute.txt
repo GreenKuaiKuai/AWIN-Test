@@ -1,0 +1,6 @@
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\obj\Debug\2-1-4-All.csproj.CoreCompileInputs.cache
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\bin\Debug\2-1-4-All.exe.config
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\bin\Debug\2-1-4-All.exe
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\bin\Debug\2-1-4-All.pdb
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\obj\Debug\2-1-4-All.exe
+C:\Users\Shanlin\source\repos\Test\2-1-4-All\obj\Debug\2-1-4-All.pdb
